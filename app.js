@@ -9,7 +9,10 @@ var animals = {
     "bear": "growl",
     "frog": "croak",
     "lion": "roar",
-    "bird": "tweet"
+    "bird": "tweet",
+    "duck": "oink",
+    "chicken": "clunch",
+    "pig": "flack"
 }
 
 function getAnimal() {
